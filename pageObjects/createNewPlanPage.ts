@@ -1,4 +1,3 @@
-// playwright-dev-page.ts
 import {Locator, Page } from '@playwright/test';
 
 export class CreateNewPlanPage {
